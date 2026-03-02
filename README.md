@@ -31,10 +31,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/7Y6Y4NM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://i.imgur.com/7Y6Y4NM.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with https://ezgif.com/
+GIF created with:
+https://ezgif.com/
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
